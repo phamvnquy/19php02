@@ -1,0 +1,40 @@
+body {
+	font-family: time new roman;
+	font-size: 20px;
+}
+#lg {
+	height: 330px;
+	width: 380px;
+	border:1px solid #DDDDDD;
+	margin: 30px;
+}
+p {
+	margin-left: 30px;
+	
+}
+input {
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+form {
+	float: left;
+
+}
+#left {
+	float: left;
+	margin-left: 8%;
+}
+
+#rgt {
+	height: 500px;
+	width: 380px;
+	border:1px solid #DDDDDD;
+	margin: 30px;
+}
+#fn, #ln {
+	float: left;
+	margin-bottom: 20px;
+}
+strong {
+	color: red;
+}

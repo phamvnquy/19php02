@@ -1,0 +1,32 @@
+body {
+	font-family: time new roman;
+	font-size: 20px;
+}
+form {
+	height: 660px;
+	width: 620px;
+	border:1px solid #DDDDDD;
+	margin-left: 28% ;
+	
+}
+#registration {
+	text-align: center;
+
+}
+p {
+	margin-left: 30px;
+}
+input {
+	margin-left: 30px;
+	height: 30px;
+}
+#submit {
+	margin-top: 10px;
+	color: white;
+	background: #0033FF;
+	width: 80px;
+	height: 35px;
+}
+strong {
+	color: red;
+}
