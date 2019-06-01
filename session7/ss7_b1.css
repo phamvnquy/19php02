@@ -1,0 +1,196 @@
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+body {
+  font-family: arial;
+  font-size: 20px;
+  margin: 0px 5%;
+}
+header  {
+  height: 100px;
+  width: 100%;
+
+}
+header img {
+  height: 100px;
+  width: 10%;
+}
+#menu {
+	float: left;
+	width: 100%;
+	height: 50px;
+	float: 	left;
+	line-height: 50px;
+  margin-top: 10px;
+}
+#menu ul {
+  background: #BB0000;
+  list-style-type: none;
+  text-align: center;
+  
+}
+#menu li {
+  color: #f1f1f1;
+  display: inline-block;
+  width: 11%;
+  height: 50px;
+  line-height: 40px;
+  margin-left: -5px;
+}
+#menu a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+#menu a:hover {
+  background: #F1F1F1;
+  color: #333;
+}
+#container {
+  width: 100%;
+  margin-top: 100px;
+
+}
+.maintop {
+  width: 100%;
+  height: 420px;
+}
+.main1 {
+  width: 47%;
+  height: 400px;
+  float: left;
+  
+}
+.main1 img {
+  width: 100%;
+  height: 70%;
+}
+.main1 h2 {
+  width: 100%;
+  height: 24%;
+}
+.main2 {
+  width: 47%;
+  height: 400px;
+  float: right;
+  
+}
+.main21 {
+  width: 47%;
+  height: 100%;
+  
+  float: left;
+}
+.main211 {
+  width: 100%;
+  height: 33%;
+  border-bottom: 1px solid #dddddd;
+}
+.main211 img {
+  width: 50%;
+  height: 80%;
+  float: left;
+}
+.main211 a {
+  width: 38%;
+  height: 80%;
+  float: left;
+ text-decoration: none; 
+}
+.main211 p {
+  width: 100%;
+  height: 19%;
+}
+.main22 {
+  width: 47%;
+  height: 100%;
+  float: right;
+}
+.main22 li {
+  width: 100%;
+  height: 14%;
+  border-bottom: 1px solid #dddddd;
+  list-style-type: none;
+}
+.mainbetween {
+  width: 100%;
+  height: 180px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.mainbetween h1 {
+  font-size: 15px;
+}
+.between1  {
+  width: 18%;
+  height:100%;
+  float: left;
+  margin-right: 10px;
+}
+.between1 img {
+  width: 100%;
+  height: 70%;
+}
+.mainbottom {
+  width: 100%;
+  height: 300px;
+ border-bottom: 1px solid black;
+}
+.left, .center, .right{
+  width: 33%;
+  height: 100%;
+  float: left;
+}
+.left h1, .center h1, .right h1 {
+   font-size: 15px;
+}
+.left1, .center1, .right1{
+  width: 100%;
+  height: 26%;
+  border-bottom: 1px solid #dddddd;
+  margin-bottom: 10px;
+}
+.left1 img, .center1 img, .right1 img {
+  width: 40%;
+  height: 90%;
+  float: left;
+}
+.left1 a, .center1 a, .right1 a{
+  width: 55%;
+  height: 70%;
+  float: left;
+  margin-left: 2%;
+ text-decoration: none; 
+}
+.left1 p, .center1 p, .right1 p {
+  width: 100%;
+  height: 15%;
+}
+.bottom {
+  width: 100%;
+  height: 200px;
+  float: left;
+  border-bottom: 1px solid black;
+}
+.bottom h1 {
+  font-size: 15px;
+}
+.bt1 {
+  width: 22%;
+  height: 100%;
+  float: left;
+  margin-right: 3%;
+}
+.bt1 li {
+  width: 100%;
+  height: 25%;
+  list-style-type: none;
+}
+.bt1 a {
+  text-decoration: none;
+}
+footer {
+  width: 100%;
+  height: 200px;
+}
