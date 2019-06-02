@@ -95,3 +95,37 @@ function bai5()
 	
 }
 bai5();
+//-------------------------------------------------------------------------------//
+//-------------------------------------------------------------------------------//
+document.write('<br>');
+document.write('Bài 6: ');
+function bai6() 
+{
+	var tien = 2000000;
+	var loinhuan = 0;
+	for (var i = 30; i >= 1;i--)
+	 {
+		loinhuan = (tien*10)/100;
+		tien = tien +loinhuan;
+	}
+	document.write('Sau 30 ngay co so tien la:'+tien);
+}
+bai6();
+//-------------------------------------------------------------------------------//
+//-------------------------------------------------------------------------------//
+document.write('<br>');
+document.write('Bài 7: ');
+function bai7() 
+{
+	var tien = 2000000;
+	var loinhuan = 0;
+	for (var i = 30; i >= 1;i--)
+	 {
+		loinhuan = (tien*10)/100;
+		tien = tien - 50000;
+		tien = tien +loinhuan;
+
+	}
+	document.write('Sau 30 ngay co so tien la:'+tien);
+}
+bai7();
